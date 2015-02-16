@@ -39,6 +39,6 @@ LANG=UTF-8
 12/21*	Winter Solstice
 12/24	Christmas Eve
 12/25	Christmas
-12/31	New Year's Eve
+02/02	New Year's Eve
 
 #endif /* !_calendar_usholiday_ */
